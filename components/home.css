@@ -1,0 +1,128 @@
+.main{
+    height: 100vh; 
+    width: 100%; 
+    
+
+}
+.main__div {
+    overflow: hidden;
+    height: 100%; 
+    width: 100%;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+    
+
+}
+.main__txt{
+    width: 80%; 
+    height: 40%;
+    color: #e0eeee;
+    font-size: 5rem;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    margin-bottom: 8rem;
+    
+
+
+}
+.txt1 {
+    width: 100%;
+    height: 28%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-family: "Dirtyline 36Daysoftype 2022";
+    font-weight: 400;
+    font-size: 5.125rem;
+    line-height: 8.25rem;
+    letter-spacing: -2px;
+}
+.txt2{
+    width: 100%;
+    height: 28%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-family: "Dirtyline 36Daysoftype 2022";
+    font-weight: 400;
+        font-size: 5.125rem;
+    line-height: 5.25rem;
+    letter-spacing: -2px;
+
+}
+.button{
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    width: 100%; 
+    position: absolute;
+    bottom: 2rem;
+    height: 10vh; 
+
+
+}
+.sub__button{
+    width: 90%;
+    display: flex; 
+    height: 100% ; 
+    position: absolute;
+    justify-content: space-between;
+    align-items: center ;
+    flex-wrap: wrap;
+
+}
+
+
+.b1{
+   
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    height: 83%;
+    width: 13%;
+    --tw-translate-y: -50%;
+    --tw-translate-x: -50%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    border-width: 2px;
+    border-color: #c5fcfc;
+    color: #c5fcfc;
+    background-color: #121315;
+
+}
+
+.b2{
+    right: 0;
+    position: absolute;
+    
+    top: 0;
+    display: flex;
+    height: 83%;
+    width: 13%;
+    --tw-translate-y: -50%;
+    --tw-translate-x: -50%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    border-width: 2px;
+    border-color: #c5fcfc;
+    color: #c5fcfc;
+    background-color: #121315;
+}
+
+@media (min-width: 1440px){
+
+.sub__button {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+}

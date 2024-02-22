@@ -1,0 +1,73 @@
+.left__1 img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 1.5rem;
+    
+}
+.left__1{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    position: relative;
+    top: 9rem;
+}
+
+.sub__container{
+   height: 100%; 
+   width: 90%;
+   display: flex;
+}
+.leftalone{
+    font-size: 4rem;
+    font-weight: 400; 
+    font-family: "Dirtyline 36Daysoftype 2022";
+    color:  #e0eeee;;
+
+}
+.container{
+height: 78vh;
+display: flex;
+justify-content: center;
+flex-direction: row-reverse;
+
+}
+.right__1{
+    
+        height: 91%;
+        left: 3rem;
+        position: relative;
+        width: 56%;
+        overflow: hidden;
+}
+.right__1 img{
+    width: 100% ;
+    height: 100%; 
+    border-radius: 1.5rem;
+}
+.txt{
+    font-family: "syne", sans-serif;
+    color:  #e0eeee;;
+    font-size: 1.055rem; 
+    line-height: 1.25rem;
+    position: relative ;
+    top: 0rem;
+    
+}
+.b3{
+    
+    left: -1rem;
+    position: relative;
+    top: 3rem;
+    display: flex;
+    height: 10%;
+    width: 33%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    border-width: 2px;
+    border-color: #c5fcfc;
+    color: #c5fcfc;
+    background-color: #121315;
+}

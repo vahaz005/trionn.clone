@@ -1,0 +1,17 @@
+
+body{
+  background-color: #121315;
+  
+  
+  
+  
+}
+.cursor{
+  height: 20px; 
+  width: 20px;
+  background-color: #c5fcfc;
+
+border-radius: 50%;
+
+position: relative;
+}
