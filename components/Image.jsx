@@ -54,7 +54,7 @@ gsap.fromTo(".left__1" ,
        <button className='b3'>View Project</button>
         </div>
       <div className="right__1">
-      <img loading="lazy" src ={url} alt="" />
+      <img loading="lazy" src ={"./public/assets (2)/asset 4.webp"} alt="" />
        
       </div>
         

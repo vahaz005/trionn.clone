@@ -14,7 +14,7 @@ function Home() {
                 animate = {{opacity:1 , y:0}}
                 transition={{duration : 1, type : "spring"}}
                 >roar in the</motion.span>
-                <span className='txt2'>digital wilderness</span>
+                <span className='txt2'>digital wilderness.</span>
                 </div>
                
                 

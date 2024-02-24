@@ -20,11 +20,14 @@
    display: flex;
 }
 .leftalone{
-    font-size: 4rem;
+    font-size: 20px;
     font-weight: 400; 
     font-family: "Dirtyline 36Daysoftype 2022";
     color:  #e0eeee;;
 
+}
+.captial{
+    text-transform: uppercase;
 }
 .container{
 height: 78vh;
